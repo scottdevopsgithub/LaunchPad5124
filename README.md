@@ -1,3 +1,8 @@
+# Scott notes
+- I had to revert back to an older version of LaunchPad from like 5.12.4 about 7 months ago.
+- The Transfer command seems all kinds of messed up in the new version
+- I tried 3 different times and the Trnasfer only worked when I started with a clean slate on 5.12.4
+
 # LaunchPad - Official Strapi Demo
 
 ![LaunchPad](./LaunchPad.jpg)
